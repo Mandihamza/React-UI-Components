@@ -1,5 +1,9 @@
 body {
-  margin: 0;
-  padding: 0.4rem;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  height: 100%;
+  width: 65vw;;
+  padding: 1rem;
   font-family: sans-serif;
 }
