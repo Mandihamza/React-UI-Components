@@ -6,7 +6,10 @@
 .app-container {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  max-width: 500px;
-  min-width: 500px;
+  justify-content: space-around;
+  margin: auto;
+  height: 100%;
+  width: 65vw;
+  padding: 1rem;
+  font-family: sans-serif;
 }
