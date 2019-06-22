@@ -1,0 +1,29 @@
+.action-btn {
+    font-size: 2rem;
+    font-weight: 500;
+    background: crimson;
+    border: solid gray 1px;
+    align-content: center;
+    color: white;
+    height: auto;
+    width: 25%;
+}
+
+.buttonStyle {
+    border: solid gray 1px;
+    background-color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    height: auto;
+    width: 25%;
+}
+
+.wide-button {
+    font-size: 2rem;
+    font-weight: 700;
+    background: white;
+    border: solid gray 1px;
+    align-content: center;
+    width: 75%; 
+    height: auto;
+}
